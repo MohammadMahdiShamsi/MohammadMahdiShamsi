@@ -12,9 +12,6 @@ Motivated to build responsive, user-friendly interfaces, and eager to gain hands
 <h2>communication </h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mohammadmahdishamsi">
-    <img src="https://img.shields.io/badge/linkedin-MohammadMahdi%20Shamsi-blue" />
-  </a>
   <a href="https://instagram.com/_mohammadmahdi_sh/">
     <img src="https://img.shields.io/badge/Instagram-@_mohammadmahdi_sh-red?style=flat&logo=instagram" />
   </a>
