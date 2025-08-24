@@ -8,3 +8,17 @@ Motivated to build responsive, user-friendly interfaces, and eager to gain hands
 
 <h2>Skills</h2>
 <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github" />
+
+<h2>📞 &nbsp; communication </h2>
+
+<p align="center">
+  <a href="www.linkedin.com/in/mohammadmahdishamsi">
+    <img src="https://img.shields.io/badge/linkedin-MohammadMahdi%20Shamsi-blue?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://instagram.com/_mohammadmahdi_sh/">
+    <img src="https://img.shields.io/badge/Instagram-@_mohammadmahdi_sh-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/mohammadmahdi_shamsi/">
+    <img src="https://img.shields.io/badge/Telegram-@mohammadmahdi_shamsi-blue?style=flat&logo=telegram" />
+  </a>
+</p>
