@@ -7,4 +7,4 @@ Motivated to build responsive, user-friendly interfaces, and eager to gain hands
 </p>
 
 <h2>Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github)](https://skillicons.dev)
+<img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github" />
