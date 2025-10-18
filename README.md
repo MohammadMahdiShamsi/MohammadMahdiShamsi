@@ -2,9 +2,7 @@
 
 <h2>Hi There <br> I'm MohammadMahdi Shamsi</h2>
 <p>
-Junior Front-End Developer with a strong foundation in HTML, CSS, and Bootstrap, currently enhancing skills in JavaScript. I have gained all my technical knowledge through self-study, driven by curiosity and a strong passion for front-end development.
-Motivated to build responsive, user-friendly interfaces, and eager to gain hands-on experience through real-world front-end projects. Quick to adapt, technically minded, and a strong communicator in dynamic, team-oriented environments.
-</p>
+Junior Front-End Developer skilled in HTML, CSS, and Bootstrap, currently improving knowledge of JavaScript and React. Bringing 4 years of call center experience with strong communication, problem-solving, and adaptability skills. Passionate about building responsive, user-friendly interfaces and eager to contribute to real projects in team environments.</p>
 
 <h2>Skills</h2>
 <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github" />
