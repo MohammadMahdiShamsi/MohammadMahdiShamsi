@@ -5,7 +5,7 @@
 Junior Front-End Developer skilled in HTML, CSS, and Bootstrap, currently improving knowledge of JavaScript and React. Bringing 4 years of call center experience with strong communication, problem-solving, and adaptability skills. Passionate about building responsive, user-friendly interfaces and eager to contribute to real projects in team environments.</p>
 
 <h2>Skills</h2>
-<img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,pycharm,vscode,github" />
 
 <h2>communication </h2>
 
